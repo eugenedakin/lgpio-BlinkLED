@@ -7,7 +7,7 @@ This is a lgpio local library that is a replacement for the deprecated sysfs lib
 is to be used with Xojo apps. This library uses local c language calls, which means updates
 should be minimal and your code should be stable for a very long time. 
 
-![]([https://github.com/eugenedakin/lgpio-BlinkLED/blob/main/BlinkSmall.png)
+![](https://github.com/eugenedakin/lgpio-BlinkLED/blob/main/BlinkSmall.png)
 
 The lgpio library can be installed Raspberry Pi OS (21 Feb 2020) and instructions 
 are available at http://abyz.me.uk/lg/download.html
