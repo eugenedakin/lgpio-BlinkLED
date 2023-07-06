@@ -6,6 +6,10 @@ is to be used with Xojo apps. This library uses local c language calls, which me
 
 ![](https://github.com/eugenedakin/lgpio-BlinkLED/blob/main/BlinkSmall.png)
 
+Below is the schematic for this example project.
+
+![](https://github.com/eugenedakin/lgpio-BlinkLED/blob/main/HelloWorldSchematic.png)
+
 The lgpio library can be installed Raspberry Pi OS (6 July 2023) and instructions 
 are available at http://abyz.me.uk/lg/download.html
 
